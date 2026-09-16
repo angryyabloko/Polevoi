@@ -1,0 +1,10 @@
+# Игнорируем только часто меняющиеся рабочие пространства и кэш
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/plugins/*/.DS_Store
+.obsidian/plugins/*/data.json
+
+# Системные файлы
+.DS_Store
+Thumbs.db
