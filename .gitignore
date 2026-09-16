@@ -4,7 +4,7 @@
 .obsidian/graph.json
 .obsidian/plugins/*/.DS_Store
 .obsidian/plugins/*/data.json
-
+.obsidian/
 # Системные файлы
 .DS_Store
 Thumbs.db
